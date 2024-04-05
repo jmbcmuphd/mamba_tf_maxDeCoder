@@ -1,0 +1,4 @@
+tensorflow[and-cuda]==2.15.0.post1 # if you want to use GPU
+transformers==4.36.2 # for using the bert tokenizer
+einops==0.7.0 # useful to make matrix manipulation faster
+datasets==2.16.1 # to load datasets
